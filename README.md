@@ -9,3 +9,5 @@
 ---
 
 This is a simple yet useful Skript for a friends system!
+
+Requirements: skQuery
