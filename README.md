@@ -1,5 +1,4 @@
-# Friends Skript
-## By snowkitkat
+# Friends Skript by snowkitkat
 
 ## Permissions
 ---
